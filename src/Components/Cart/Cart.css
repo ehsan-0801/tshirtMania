@@ -1,0 +1,11 @@
+.cartItem{
+    background: lightgray;
+    padding: 5px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    box-shadow: 0 0  10px gray;
+    margin: 5px;
+}
+.orange{
+    background-color: orange;
+}
